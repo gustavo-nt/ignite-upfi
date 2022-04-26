@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/gustavo-nt/ignite-spacetraveling/blob/master/public/logo-github.svg" alt="upfi" />
+  <img src="https://github.com/gustavo-nt/ignite-upfi/blob/master/public/logo-alternative.svg" alt="upfi" />
 </p>
 
 <h1 align="center">
@@ -38,7 +38,7 @@ Upfi é uma aplicação para upload de imagens. Esse Projeto foi desenvolvido co
 
 ### 🖼 Demonstração
 <p>
-   <img src="https://github.com/gustavo-nt/ignite-spacetraveling/blob/master/public/post.png" alt="Home upfi"/>
+   <img src="https://github.com/gustavo-nt/ignite-upfi/blob/master/public/home.png" alt="Home upfi"/>
 </p>
 
 ### ⚙ Pré-requisitos
