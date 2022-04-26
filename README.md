@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/gustavo-nt/ignite-upfi/blob/master/public/logo-alternative.png" alt="upfi" />
+  <img src="https://github.com/gustavo-nt/ignite-upfi/blob/master/public/logo-alternative.svg" alt="upfi" />
 </p>
 
 <h1 align="center">
